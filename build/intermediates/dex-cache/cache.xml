@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/fengkun/Downloads/demo1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="3499ceba05ca1f6037c6a2fad73df8f636224a28">
+        <dex dex="/Users/fengkun/Downloads/demo1/app/build/intermediates/pre-dexed/debug/classes-d02d51e1fee818f96e95040d52fe2f6c0ca88baa.jar" />
+    </item>
+    <item
+        jar="/Users/fengkun/adt-bundle-mac-x86_64-20140702/android-sdk-macosx/extras/android/m2repository/com/android/support/support-v4/19.1.0/support-v4-19.1.0.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67">
+        <dex dex="/Users/fengkun/Downloads/demo1/app/build/intermediates/pre-dexed/debug/support-v4-19.1.0-95b65168d37a0e5bbaede4266c3d16084afdb675.jar" />
+    </item>
+
+</items>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- grid资源 新增模块时直接填加-->
+    <string-array name="actions">
+        <item >学习|ic_launcher|0</item>
+        <item >喝水|ic_launcher|1</item>
+        <item >打牌|ic_launcher|2</item>
+        <item >抽烟|ic_launcher|3</item>
+        <item >喝酒|ic_launcher|4</item>
+        <item >玩手机|ic_launcher|5</item>
+        <item >发呆|ic_launcher|6</item>
+        <item >看电影|ic_launcher|7</item>
+        <item >玩游戏|ic_launcher|8</item>
+        <item >聊天|ic_launcher|9</item>
+        <item >做饭|ic_launcher|10</item>
+        <item >吃饭|ic_launcher|11</item>
+        <item >创业|ic_launcher|12</item>
+        <item >找工作|ic_launcher|13</item>
+        <item >约会|ic_launcher|14</item>
+        <item >聚会|ic_launcher|15</item>
+        <item >炒股|ic_launcher|16</item>
+        <item >买彩票|ic_launcher|17</item>
+        <item >踢球|ic_launcher|18</item>
+        <item >炒股|ic_launcher|19</item>
+        <item >逛街|ic_launcher|20</item>
+    </string-array>
+    
+</resources>
